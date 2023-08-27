@@ -6,8 +6,6 @@ t.colormode(255)
 timmy.speed(100)
 timmy.width(1)
 
-
-
 def random_color():
     r = random.randint(0,255)
     g = random.randint(0,255)
